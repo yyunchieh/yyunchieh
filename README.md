@@ -14,10 +14,10 @@ RA in LLM, AI agent | Academia Sinica, Taiwan
 I’m currently working on bulding multi-agent systems to improve research workflow.
 
 ## Technical Skills
-Programming: Python (Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib), R
-AI Tools & Platforms: LangChain, LangGraph, n8n, GitHub, MCP
+- Programming: Python (Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib), R
+- AI Tools & Platforms: LangChain, LangGraph, n8n, GitHub, MCP
 
-## Featured Projects
+## Selective Projects
 
 ### 1. Streamlined Statistical Learning Research with RAG Assistant
 [GitHub](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
@@ -41,8 +41,6 @@ LLM Evaluation, AI Agent, Machine Learning
 Programming: Python (Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib), R
 AI Tools & Platforms: LangChain, LangGraph, n8n, GitHub, MCP
 
-Contact
-
-Email: yunchien0102@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/yunchiehlu/)
+## Contact
+- Email: yunchien0102@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yunchiehlu/)
