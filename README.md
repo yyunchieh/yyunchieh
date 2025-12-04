@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
+
 ## Hi there
 I'm Jaslene (Yun-Chieh Lu)
 
