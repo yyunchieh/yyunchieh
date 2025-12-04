@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
 ## Hi there
-I'm Jaslene (Yun-Chieh Lu)
+I'm Jaslene (Yun-Chieh Lu), welcome to my GitHub page!
 
 ## Academic Background
 B.A., Political Science, with intelligent computing credit program
@@ -35,7 +35,6 @@ variables with SHAP and K-means clustering; top model reached 67% accuracy, show
 
 ## Research & Technical Interests
 LLM Evaluation, AI Agent, Machine Learning 
-
 
 ## Technical Skills
 Programming: Python (Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib), R
