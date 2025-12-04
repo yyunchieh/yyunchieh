@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there
+I'm Jaslene (Yun-Chieh Lu)
 
-<!--
-**yyunchieh/yyunchieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Academic Background
+B.A., Political Science, with intelligent computing credit program
 
-Here are some ideas to get you started:
+RA in LLM, AI agent | Academia Sinica, Taiwan 
+I’m currently working on bulding multi-agent systems to improve research workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & Technical Interests
+
+LLM Evaluation, AI Agent, Machine Learning 
+
+## Technical Skills
+Programming: Python (Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib), R
+AI Tools & Platforms: LangChain, LangGraph, n8n, GitHub, MCP
+
+Contact
+
+Email: yunchien0102@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/yunchiehlu/)
