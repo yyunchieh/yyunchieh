@@ -5,13 +5,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
 ## Hi there
-I'm Jaslene (Yun-Chieh Lu), welcome to my GitHub page!
+Welcome to my GitHub page!
+I'm Jaslene (Yun-Chieh Lu) and currently working in Academia Sinica as a RA, focusing on bulding multi-agent systems to improve research workflow.
 
 ## Academic Background
 B.A., Political Science, with intelligent computing credit program
 
-RA in LLM, AI agent | Academia Sinica, Taiwan 
-I’m currently working on bulding multi-agent systems to improve research workflow.
 
 ## Technical Skills
 - Programming: Python (Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib), R
