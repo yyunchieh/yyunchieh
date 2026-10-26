@@ -6,11 +6,11 @@
 
 ## Hi there
 Welcome to my GitHub page!
-I'm Jaslene (Yun-Chieh Lu) and currently working in Academia Sinica as a RA, focusing on bulding multi-agent systems to improve research workflow.
+I am currently pursuing a master’s degree in Data Science at the University of Michigan. Before graduate school, I worked in Academia Sinica as a RA, focusing on building multi-agent systems to improve research workflow.
 
 ## Academic Background
+M.S., Data Science - University of Michigan - Ann Arbor
 B.A., Political Science, with intelligent computing credit program
-
 
 ## Technical Skills
 - Programming: Python (Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib), R
