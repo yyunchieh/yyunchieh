@@ -10,6 +10,7 @@ I am currently pursuing a master’s degree in Data Science at the University of
 
 ## Academic Background
 M.S., Data Science - University of Michigan - Ann Arbor
+
 B.A., Political Science, with intelligent computing credit program
 
 ## Technical Skills
